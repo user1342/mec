@@ -6,7 +6,6 @@ setup(
     description="Code for minimum-entropy coupling.",  # Short description
     url="https://github.com/user1342/WouldYouKindly",  # Replace with the project's GitHub URL
     packages=find_packages(),  # Automatically find package directories
-    install_requires=requirements,  # Load dependencies from requirements.txt
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GPL-3.0",
